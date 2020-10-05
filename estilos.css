@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,300;1,700&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif !important;
+	background-image: url("./assets/background.svg");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	margin:0;
+	padding: 0;
+	width: 100%;
+	height: 100vh;
+
+}
+.indexRedBox{
+	color: #4097FF;
+	margin: 10px 350px;
+	padding: 10px 40px;
+	border: solid;
+	border-width: 10px;
+	border-color: #ED7373;
+	border-radius: 50px;
+}
+.indexRedBox p{
+	font-style: italic;
+	text-align: center;
+}
+.indexRedBox span{
+	font-style: italic;
+	padding: 6px;
+	font-size: 20px;
+}
+.indexContent{
+	margin: 120px auto;
+}
+.indexSearchBox{
+	margin: 30px auto;
+}
+.indexInputBox{
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 20px;
+}
+.navbar.navbar-2 .imgLogo{
+	width: 250px;
+}
+
+
+.btnIniciarSesion{
+	background-color: #FFF;
+	color:#3F8BD0;
+	font-weight: bold;
+	border-width: 1px;
+	border-color: #3F8BD0;
+	border-radius: 6px;
+	border-style: outside;
+	box-shadow: 4px 4px 4px;
+	height: 45px;
+	width: 200px;
+	font-size: 18px;
+}
